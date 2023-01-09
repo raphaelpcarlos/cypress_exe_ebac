@@ -1,0 +1,18 @@
+{
+  "name": "exercicioebac",
+  "version": "1.0.0",
+  "description": "Execicio módulo 11 Automaçao UI com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },  
+  "author": "Raphael Carlos",
+  "license": "ISC",  
+  "dependencies": {
+    "cypress": "^12.3.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}

@@ -4,7 +4,7 @@
   "description": "Execicio módulo 11 Automaçao UI com Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run",
+    "cy:open": "cypress run",
     "cy:open": "cypress open"
   },  
   "author": "Raphael Carlos",
